@@ -16,12 +16,12 @@ Get the project fired up and start using it as a user would. Try to go through t
 
 ### Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] CD into the project base directory `cd React-Testing-TV-Show`
-- [ ] Download project dependencies by running `npm install`
-- [ ] Start up the app using `npm start`
+- [Done] Create a forked copy of this project.
+- [Done] Add your team lead as collaborator on Github.
+- [Done] Clone your OWN version of the repository in your terminal
+- [Done] CD into the project base directory `cd React-Testing-TV-Show`
+- [Done] Download project dependencies by running `npm install`
+- [Done] Start up the app using `npm start`
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
